@@ -67,9 +67,17 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		A0FDAB7E1B2916B10046B8B8 /* SWRevealViewController */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			name = SWRevealViewController;
+			sourceTree = "<group>";
+		};
 		F47029E71A7F27DB00E30A3C = {
 			isa = PBXGroup;
 			children = (
+				A0FDAB7E1B2916B10046B8B8 /* SWRevealViewController */,
 				F4702A151A7F342F00E30A3C /* MapKit.framework */,
 				F47029F21A7F27DB00E30A3C /* SidebarMenu */,
 				F4702A081A7F27DC00E30A3C /* SidebarMenuTests */,
