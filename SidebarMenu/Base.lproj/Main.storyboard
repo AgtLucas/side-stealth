@@ -20,7 +20,7 @@
                     </view>
                     <connections>
                         <segue destination="c8U-hf-vWv" kind="custom" identifier="sw_rear" customClass="SWRevealViewControllerSegueSetController" id="XSq-e0-z39"/>
-                        <segue destination="dXH-rC-dKS" kind="custom" customClass="SWRevealViewControllerSegueSetController" id="jW4-Hb-bNJ"/>
+                        <segue destination="dXH-rC-dKS" kind="custom" identifier="sw_front" customClass="SWRevealViewControllerSegueSetController" id="jW4-Hb-bNJ"/>
                     </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="x5A-6p-PRh" sceneMemberID="firstResponder"/>
